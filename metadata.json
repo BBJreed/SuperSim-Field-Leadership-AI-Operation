@@ -1,0 +1,11 @@
+{
+  "name": "SuperSim: Field Leadership & AI Operations Evaluator",
+  "description": "An enterprise-grade AI-powered construction field simulation testing superintendent leadership, OSHA compliance, trade coordination, and critical path operations across a 5-day work week.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
