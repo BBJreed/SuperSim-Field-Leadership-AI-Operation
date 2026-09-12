@@ -27,7 +27,7 @@ assessment tool, not a game.
    percentages) and a critical-path dilemma with real trade-specific detail
    (AISC tolerance breaches, crane mobilization costs, weather-driven pour
    windows). Respond with a standard tactical order, or **record a freeform
-   radio directive** in your own words — Claude evaluates it against OSHA
+   radio directive** in your own words — Gemini evaluates it against OSHA
    compliance, spec rigor, subcontractor buy-in, and cost liability, with a
    realistic "lead foreman" radio-chatter response.
 5. **Get evaluated** — a post-mortem executive report classifies you (Hire
